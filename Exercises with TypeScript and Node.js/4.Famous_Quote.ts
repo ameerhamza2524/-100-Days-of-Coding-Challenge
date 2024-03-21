@@ -1,0 +1,1 @@
+console.log('bilawal bhutto zardari ones said, “When it rains, water comes, and when it rains heavily, more water comes."');
